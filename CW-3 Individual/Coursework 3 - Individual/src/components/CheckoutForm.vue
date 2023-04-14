@@ -3,7 +3,7 @@
     <div class="checkout row">
         <div class="cart-details card card-body mb-4">
                 <h4>Cart
-                        <span class="price" style="color:black">
+                        <span class="price" style="color:Red">
                             <i class="fa fa-shopping-cart"></i>
                             <b>{{cart.length}}</b>
                         </span>
