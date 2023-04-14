@@ -3,7 +3,7 @@
         <div class="container">
         <a href="javascript:void(0)" class="d-flex navbar-brand align-items-center" v-on:click="navigateTo('products')">
             
-        </a><br>
+        </a><br><br>
         <h1><b style='color:black; font-style: oblique; font-family: ;'>Abdul Subhan Khan CW3</b></h1>
         
           <div class="d-flex">
