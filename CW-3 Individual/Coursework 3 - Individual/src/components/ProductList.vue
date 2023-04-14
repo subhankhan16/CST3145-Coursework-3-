@@ -151,7 +151,7 @@
                     });
                 }
 
-                //
+                //sort by location
                 if (this.sortBy === 'location') {
                     filterLes = filterLes.sort((a, b) => {
                     if (this.sortDirection === 'asc') {
